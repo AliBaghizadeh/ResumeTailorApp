@@ -28,12 +28,12 @@ The quality of your tailored resume depends entirely on the "Source of Truth" yo
 1. **Master Resume**: Paste your longest, most comprehensive resume. Don't worry about length; the AI uses this as its primary database.
 2. **Formatting Blueprint**: Paste a sample resume or a specific layout you like. The AI will mirror the hierarchy, font-weighting (via Markdown), and section ordering of this blueprint.
 3. **Detailed Projects**: **CRITICAL.** Paste raw technical notes, bullet points, or READMEs from your projects. The more "raw data" you provide here, the better the AI can find matches for the job description.
-4. **Strategic Guidance**: Tell the AI your "vibe." (e.g., *"Focus on my leadership in Kubernetes even though I was a junior"* or *"Highlight my transition from Java to Go"*).
+4. **Strategic Guidance**: Tell the AI your "vibe." (e.g., *"Focus on my leadership in bridging AI to scientific projects even though I was a junior"* or *"Highlight my transition from science to machine learning"*).
 
 ### Phase 2: Strategic Review
 After the AI researches the company and the role:
 - **Audit Keywords**: Remove any skills the AI "hallucinated" or that you don't want to emphasize. Add skills you forgot to include in your master resume.
-- **Edit Recommendations**: The AI proposes 5 strategic "moves." You can rewrite these manually if you want the AI to take a different tactical approach.
+- **Edit Recommendations**: The AI proposes 5 strategic "moves." You can rewrite these manually if you want the AI to take a different tactical approach or you can modify them.
 - **Cover Letter**: Select your target language and provide any specific "hook" you want in the first paragraph.
 
 ### Phase 3: Export & Metrics
