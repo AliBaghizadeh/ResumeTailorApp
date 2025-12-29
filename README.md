@@ -38,7 +38,7 @@ The quality of your tailored resume depends entirely on the "Source of Truth" yo
 
 <div align="center">
   <img src="assets/start.png" alt="Workflow Preview" width="800" style="border-radius: 20px; margin: 20px 0; border: 1px solid #e2e8f0;" />
-  <p><i>Conceptual Preview: From Raw Data to Tailored PDF</i></p>
+  <p><i>Start Page: Multi-resource decision making</i></p>
 </div>
 
 ### Phase 2: Strategic Review
