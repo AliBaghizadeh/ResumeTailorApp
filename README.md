@@ -23,11 +23,6 @@ This app uses a **Bring Your Own Key (BYOK)** model. To use it, you need:
 
 ## 🏁 Step-by-Step Workflow
 
-<div align="center">
-  <img src="assets/workflow.png" alt="Workflow Preview" width="800" style="border-radius: 20px; margin: 20px 0; border: 1px solid #e2e8f0;" />
-  <p><i>Conceptual Preview: From Raw Data to Tailored PDF</i></p>
-</div>
-
 
 ### Phase 1: The Input Engine
 The quality of your tailored resume depends entirely on the "Source of Truth" you provide.
@@ -36,6 +31,11 @@ The quality of your tailored resume depends entirely on the "Source of Truth" yo
 3. **Detailed Projects**: **CRITICAL.** Paste raw technical notes, bullet points, or READMEs from your projects. **Pro-tip:** Paste the actual `README.md` files from your repos here; this is the highest-fidelity data for finding "hidden" skills.
 4. **Personal & Portfolio Links**: Add links to your GitHub, LinkedIn, Google Scholar, or Portfolio. This enables **"Live Grounding"**—the AI uses Google Search to cross-reference your claims against your public commits and endorsements to verify technical proficiency.
 5. **Strategic Guidance**: Tell the AI your "vibe." (e.g., *"Focus on my leadership in bridging AI to scientific projects even though I was a junior"* or *"Highlight my transition from science to machine learning"*).
+
+<div align="center">
+  <img src="assets/workflow.png" alt="Workflow Preview" width="800" style="border-radius: 20px; margin: 20px 0; border: 1px solid #e2e8f0;" />
+  <p><i>Conceptual Preview: From Raw Data to Tailored PDF</i></p>
+</div>
 
 ### Phase 2: Strategic Review
 After the AI researches the company and the role:
