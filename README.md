@@ -23,6 +23,10 @@ This app uses a **Bring Your Own Key (BYOK)** model. To use it, you need:
 
 ## 🏁 Step-by-Step Workflow
 
+  [<img src="https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&q=80&w=1000" alt="Workflow Preview" width="800" style="border-radius: 20px; margin: 20px 0; border: 1px solid #e2e8f0;" />
+  <p><i>Conceptual Preview: From Raw Data to Tailored PDF</i></p>](https://raw.githubusercontent.com/[YOUR_USERNAME]/[REPO_NAME]/main/assets/workflow.png)
+
+
 ### Phase 1: The Input Engine
 The quality of your tailored resume depends entirely on the "Source of Truth" you provide.
 1. **Master Resume**: Paste your longest, most comprehensive resume. Don't worry about length; the AI uses this as its primary database.
