@@ -28,7 +28,8 @@ The quality of your tailored resume depends entirely on the "Source of Truth" yo
 1. **Master Resume**: Paste your longest, most comprehensive resume. Don't worry about length; the AI uses this as its primary database.
 2. **Formatting Blueprint**: Paste a sample resume or a specific layout you like. The AI will mirror the hierarchy, font-weighting (via Markdown), and section ordering of this blueprint.
 3. **Detailed Projects**: **CRITICAL.** Paste raw technical notes, bullet points, or READMEs from your projects. The more "raw data" you provide here, the better the AI can find matches for the job description.
-4. **Strategic Guidance**: Tell the AI your "vibe." (e.g., *"Focus on my leadership in bridging AI to scientific projects even though I was a junior"* or *"Highlight my transition from science to machine learning"*).
+4. **Personal & Portfolio Links**: Add links to your GitHub, LinkedIn, Google Scholar, or Portfolio. The AI will use these to verify technical claims and capture your professional "voice." It also reports back what it could extract from those links.
+5. **Strategic Guidance**: Tell the AI your "vibe." (e.g., *"Focus on my leadership in bridging AI to scientific projects even though I was a junior"* or *"Highlight my transition from science to machine learning"*).
 
 ### Phase 2: Strategic Review
 After the AI researches the company and the role:
@@ -73,7 +74,7 @@ If the target company has a specific resume style (e.g., the "Google Resume"), f
 ## 🧪 Technical Implementation
 
 - **Framework**: React 19 + TypeScript.
-- **LLM**: Gemini 3 Pro (via `@google/genai`).
+- **LLM**: Gemini 3 Pro (via `@google/genai`). There are 3 choices of models based on price and lightness of the output, chosen by the user.
 - **Grounding**: Google Search (used for company research phase).
 - **Styling**: Tailwind CSS + Swiss-Modern Design Principles.
 
