@@ -37,7 +37,7 @@ The quality of your tailored resume depends entirely on the "Source of Truth" yo
 5. **Strategic Guidance**: Tell the AI your "vibe." (e.g., *"Focus on my leadership in bridging AI to scientific projects even though I was a junior"* or *"Highlight my transition from science to machine learning"*).
 
 <div align="center">
-  <img src="assets/start.png" alt="Workflow Preview" width="800" style="border-radius: 20px; margin: 20px 0; border: 1px solid #e2e8f0;" />
+  <img src="assets/start.png" alt="Start Page Preview" width="800" style="border-radius: 20px; margin: 20px 0; border: 1px solid #e2e8f0;" />
   <p><i>Start Page: Multi-resource decision making</i></p>
 </div>
 
